@@ -1,0 +1,1 @@
+<h1><?php echo e('welcome'); ?></h1><?php /**PATH C:\xampp\htdocs\Jobs_Site\resources\views/welcome.blade.php ENDPATH**/ ?>
